@@ -1,14 +1,1 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Simple Todo</title>
-</head>
-<body>
-<h1>Todo List</h1>
-<ul id="list"></ul>
-<input type="text" id="newItem" placeholder="New item">
-<button id="addBtn">Add</button>
-<script src="script.js"></script>
-</body>
-</html>
+<!DOCTYPE html>\n<html>\n<head>\n  <meta charset=\"UTF-8\">\n  <title>Simple JS App</title>\n</head>\n<body>\n  <h1>Simple App</h1>\n  <div id=\"data\"></div>\n  <script src=\"script.js\"></script>\n</body>\n</html>
