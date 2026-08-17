@@ -1,0 +1,1 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><title>Simple App</title></head><body><h1>Items</h1><ul id="items"></ul><form id="addForm"><input type="text" id="itemInput" placeholder="New item" required><button type="submit">Add</button></form><script src="script.js"></script></body></html>
